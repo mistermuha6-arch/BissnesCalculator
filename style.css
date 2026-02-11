@@ -69,3 +69,10 @@ input{
 .list{
     font-size: 19px;
 }
+.instruction{
+    color: rgb(130, 9, 9);
+    font-size: 10px;
+}
+select{
+    background: #dadada
+}
